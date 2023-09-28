@@ -1,19 +1,19 @@
-# Project Name
+# Project Name: Juicy Brick Breaker
 
-Context and date
+Context and date: 9/27/23
 
 Description
 
 
 ## Implementation
 
-Which features you included
+Which features you included: added textures 
 
 
-## References
+## References: Jason Francis 
 
 
-## Future Development
+## Future Development: Add more particles 
 
 
-## Created by
+## Created by Max Morrow
